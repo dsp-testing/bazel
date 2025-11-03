@@ -10,3 +10,7 @@ updates:
     directory: "/bzlmod-lock"
     schedule:
       interval: "weekly"
+  - package-ecosystem: "bazel"
+    directory: "/workspace"
+    schedule:
+      interval: "weekly"
