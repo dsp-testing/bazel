@@ -5,6 +5,7 @@
 
 version: 2
 enable-beta-ecosystems: true
+
 updates:
   - package-ecosystem: "bazel"
     directory: "/bzlmod-lock"
